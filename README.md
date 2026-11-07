@@ -8,6 +8,8 @@ The project combines Windows window management, DirectX 11 rendering, and an imm
 
 > **Project scope:** The application entry point and DirectX rendering implementation have intentionally been left out to prevent straightforward replication.
 
+https://github.com/user-attachments/assets/0fc056e8-4abc-4db6-af95-b97091e02eb6
+
 ---
 
 ## Table of Contents
